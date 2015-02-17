@@ -1,0 +1,13 @@
+########################
+# Author: Ruikai Liu   #
+# Date:   2014/10/13   #
+# CurVer:      1       #
+########################
+Date:    20141013
+Version:     1
+Add:
+	list.h
+	list.cc
+	linkList_test.cc
+		Used to practise the linkList
+		Unknown error: Find function can only be implemented in .h

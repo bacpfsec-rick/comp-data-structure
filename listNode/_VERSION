@@ -1,0 +1,11 @@
+########################
+# Author: Ruikai Liu   #
+# Date:   2014/10/13   #
+# CurVer:      1       #
+########################
+Date:    20141013
+Version:     1
+Add:
+	listNode.cc
+	listNode_test.cc
+		Used to practise the linkNode

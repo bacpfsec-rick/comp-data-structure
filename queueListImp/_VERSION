@@ -1,0 +1,12 @@
+########################
+# Author: Ruikai Liu   #
+# Date:   2014/10/14   #
+# CurVer:      1       #
+########################
+Date:    20141014
+Version:     1
+Add:
+	queue.h
+	queue.cc
+	queue_test.cc
+		Use linkList to implement the queue
